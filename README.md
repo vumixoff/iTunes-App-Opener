@@ -2,7 +2,9 @@
 ● Дополнение для iTunes 12.6.5.3 чтобы искать приложения  
                                 
 ✨ Возможности                                                 
-● Открытие приложений по App Store ID                                     
+● Открытие приложений по App Store ID
+● AppStore встроенный в программу
+● Режим прокси
 ● Использование протокола itmss://                              
 ● Минималистичный код без зависимостей                                              
 ● Совместимость с Windows                                                                                                             
@@ -11,4 +13,5 @@
 ● Введите App Store ID приложения                                                        
 ● После этого программа откроет страницу приложения в iTunes                                                     
 
-<img width="497" height="332" alt="image" src="https://github.com/user-attachments/assets/ceb59833-79b7-42d0-bde1-bba42b816710" />
+<img width="993" height="708" alt="Скрин" src="https://github.com/user-attachments/assets/ad754ad3-fca4-4c68-8bff-4a70fe665064" />
+
