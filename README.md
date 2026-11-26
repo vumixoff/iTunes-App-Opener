@@ -1,19 +1,28 @@
-# 📱iTunes-App-Opener                                          
-● Дополнение для iTunes 12.6.5.3 чтобы искать приложения                               
-                                
+# 📱iTunes-App-Opener — это лёгкая утилита, которая открывает страницы приложений в iTunes по их App Store ID. Позволяет быстро переходить к нужному приложению без ручного поиска в App Store, используя протокол itmss:// и встроенный AppStore, и которая дополняет поиск для iTunes 12.6.5.3.
+
+
 ✨ Возможности                                                 
-● Открытие приложений по App Store ID                                 
-● AppStore встроенный в программу                                       
-● Режим прокси                                         
-● Использование протокола itmss://                                                            
-● Минималистичный код без зависимостей                                                                            
-● Совместимость с Windows       
+• 🔍 Открытие приложений по App Store ID — мгновенный переход на страницу приложения
 
+• 🏪 AppStore, встроенный в программу — не нужно переключаться между окнами
 
-🚀 Запуск                                                                                                                                              
-● Введите App Store ID приложения                                                                                      
-● После этого программа откроет страницу приложения в iTunes                                                                                 
+• 🌐 Режим прокси — работа через прокси-сервер
 
-<img width="993" height="708" alt="Скрин" src="https://github.com/user-attachments/assets/ad754ad3-fca4-4c68-8bff-4a70fe665064" />
-<img width="1366" height="719" alt="скрин 2" src="https://github.com/user-attachments/assets/7c64b855-acd8-4076-8087-eab304348e92" />
-<img width="1366" height="720" alt="скрин 3" src="https://github.com/user-attachments/assets/05441420-c642-4ee7-b961-2ed52439175f" />
+• 🔗 Использование протокола itmss:// — нативная интеграция с iTunes
+
+• 🪶 Минималистичный код без зависимостей — не требует установки дополнительных библиотек
+
+• 🪟 Совместимость с Windows
+
+🖥️ Требования
+• Windows (любая актуальная версия)
+
+• iTunes 12.6.5.3 (или совместимая версия)
+
+• Установленный протокол itmss:// (регистрируется автоматически при установке iTunes)                                                                           
+
+<img width="799" height="531" alt="{D95947E0-3CB2-40D1-9910-243DFA20A20D}" src="https://github.com/user-attachments/assets/e1b13f96-76f9-424b-9122-daa0ccbdd33f" />
+<img width="796" height="520" alt="{D72DA10C-91C1-46D3-8FD7-2A5D16892CFC}" src="https://github.com/user-attachments/assets/ea1d9590-1587-4f78-b727-e515a5e2bedf" />
+<img width="800" height="524" alt="{6DD1C324-4012-4DF4-BD83-A01D31877AEF}" src="https://github.com/user-attachments/assets/00f9629b-ee8d-4d70-b182-8d04afb64334" />
+<img width="797" height="528" alt="{5897D8D2-59B1-4667-A4D9-2CE2AB38E3B1}" src="https://github.com/user-attachments/assets/03a4f7e3-f0f9-472f-8e6b-1dd965f23dc1" />
+
